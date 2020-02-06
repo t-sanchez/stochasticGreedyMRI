@@ -60,13 +60,18 @@ and unpack it in the `knee_fastMRI_static/static_sgMRI_toolbox` directory
 ## References
 [1] B. Gözcü, R. K. Mahabadi, Y. H. Li, E. Ilıcak,  T. Çukur, J. Scarlett, 
 and V. Cevher. *Learning-Based Compressive MRI.* IEEE Transactions on Medical Imaging (2018)
+
 [2]Jung, H., et al. *k‐t FOCUSS: a general compressed sensing framework for high resolution dynamic MRI.*
 Magn Reson Med. 61.1 (2009): 103-116.
+
 [3] Jin, K. H., Lee D., and Ye, J.C. *A general framework for compressed sensing and parallel MRI using annihilating filter based low-rank Hankel matrix.*
  IEEE TCI 2.4 (2016): 480-495.
+ 
  [4] Otazo R, Kim D, Axel L, Sodickson DK. *Combination of compressed sensing and parallel imaging for highly accelerated first-pass cardiac perfusion MRI*. Magn Reson Med. 2010; 64(3):767-76.
+ 
 [5] Becker, S., Bobin, J., & Candès, E. J. (2011). *NESTA: A fast and accurate first-order method for sparse recovery*. 
 SIAM Journal on Imaging Sciences, 4(1), 1-39.
+
 [6] Zbontar, J., et al. *fastMRI: An open dataset and benchmarks for accelerated MRI.* arXiv preprint arXiv:1811.08839 (2018).
  
 ## Copyright
